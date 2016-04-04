@@ -11,7 +11,7 @@
     "connect-history-api-fallback": "1.1.0",
     "express": "^4.13.3",
     "http-proxy": "^1.11.2",
-    "kelp-etag": "git://github.com/quizlet/kelp-etag.git#a09bb82a8a7d178ca17a51f1a343af44ddf993a3",
+    "kelp-etag": "git://github.com/quizlet/kelp-etag.git#edc08c48dd3eb5e349708284cd9a8527c6f723ea",
     "optimist": "~0.6.0",
     "serve-index": "^1.7.2",
     "sockjs": "^0.3.15",
